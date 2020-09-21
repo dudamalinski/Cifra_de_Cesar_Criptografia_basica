@@ -1,0 +1,2 @@
+# Cifra_de_Cesar_Criptografia_basica
+Cifra de Cesar é um dos primeiros modelos de criptografia utilizados pela humanidade. Criado pelo imperador romano Cesar, tinha o intuito de esconder as mensagens que o imperador enviava aos seus generais. Baseia-se na ideia de trocar a ordem das letras fo alfabeto. Este código em python traz uma forma simples de mostrar tal criptografia. No menu, é possível criptografar uma mensagem, decriptografá-la e tamebém realizar um simples teste de força bruta na senha.
